@@ -1,2 +1,2 @@
-# PhysicsEngineBouncyBall
-PhysicsEngineBouncyBall on Visual Studio Code
+# staticSquare
+A static square made using Matter.js physics engine
